@@ -36,6 +36,12 @@ import {
   erdokertes,
   chipcad,
   bpg_logo,
+  benefitCard1,
+  benefitCard2,
+  benefitCard3,
+  benefitCard4,
+  benefitCard5,
+  benefitCard6,
 } from "../assets";
 
 export const navigation = [
@@ -236,7 +242,7 @@ export const benefits = [
     title:
       "Olivér \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b  Team Mentor",
     text: "Nagy Olivér brings experience and wisdom to guide the team. With his expertise, he helps us navigate challenges and ensure that our mission stays on track.",
-    backgroundUrl: "./src/assets/benefits/card-1.svg",
+    backgroundUrl: benefitCard1,
     iconUrl: benefitIcon1,
     imageUrl: benefitImage2,
   },
@@ -245,7 +251,7 @@ export const benefits = [
     title:
       "Kristóf \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b\u200b \u200b \u200b \u200b System Designer",
     text: "Designs and develops the hardware system along with the software, holds together/manages the team, keeps contact with the school, companies, and more.",
-    backgroundUrl: "./src/assets/benefits/card-2.svg",
+    backgroundUrl: benefitCard2,
     iconUrl: benefitIcon2,
     imageUrl: benefitImage2,
     light: true,
@@ -255,7 +261,7 @@ export const benefits = [
     title:
       "Áron \u200b \u200b \u200b \u200b \u200b \u200b\u200b \u200b \u200b\u200b \u200b \u200b\u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b  \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Team Commander",
     text: "Leads the team, overseeing strategy and programming the website and the cansat camera. ",
-    backgroundUrl: "./src/assets/benefits/card-3.svg",
+    backgroundUrl: benefitCard3,
     iconUrl: benefitIcon3,
     imageUrl: benefitImage2,
   },
@@ -264,7 +270,7 @@ export const benefits = [
     title:
       "Bence \u200b \u200b \u200b \u200b \u200b \u200b\u200b \u200b \u200b\u200b \u200b \u200b\u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Ground Station Specialist",
     text: "Builds and maintains the ground station, including the Yagi antenna and communication systems, ensuring seamless data transmission.",
-    backgroundUrl: "./src/assets/benefits/card-4.svg",
+    backgroundUrl: benefitCard4,
     iconUrl: benefitIcon4,
     imageUrl: benefitImage2,
     light: true,
@@ -274,7 +280,7 @@ export const benefits = [
     title:
       "Dávid \u200b \u200b \u200b \u200b \u200b \u200b\u200b \u200b \u200b\u200b \u200b \u200b\u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Build Strategist",
     text: "Ensures the CanSat's structure is strong and all systems operate reliably.",
-    backgroundUrl: "./src/assets/benefits/card-5.svg",
+    backgroundUrl: benefitCard5,
     iconUrl: benefitIcon1,
     imageUrl: benefitImage2,
   },
@@ -283,7 +289,7 @@ export const benefits = [
     title:
       "Beni \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Design Virtuoso",
     text: "Creates the visuals for the CanSat and team, making sure both are functional and visually appealing.",
-    backgroundUrl: "./src/assets/benefits/card-6.svg",
+    backgroundUrl: benefitCard6,
     iconUrl: benefitIcon2,
     imageUrl: benefitImage2,
   },
